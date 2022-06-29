@@ -6,6 +6,11 @@
 	<tr>
 		<th>
 			<a href="mailto:jussi@nevavuori.fi">
+				Homepage
+			</a>
+		</th>
+		<th>
+			<a href="mailto:jussi@nevavuori.fi">
 				Email
 			</a>
 		</th>
@@ -26,6 +31,13 @@
 		</th>
 	</tr>
 	<tr>
+		<td align="center">
+			<img width="441" height="1">
+			<a href="mailto:jussi@nevavuori.fi">
+				🏠
+			</a>
+			<img width="441" height="1">
+		</td>
 		<td align="center">
 			<img width="441" height="1">
 			<a href="mailto:jussi@nevavuori.fi">
@@ -56,6 +68,11 @@
 		</td>
 	</tr>
 	<tr>
+		<td align="center">
+			<a href="https://jussinevavuori.com">
+				jussinevavuori.com
+			</a>
+		</td>
 		<td align="center">
 			<a href="mailto:jussi@nevavuori.fi">
 				jussi@nevavuori.fi
