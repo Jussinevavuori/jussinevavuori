@@ -15,26 +15,38 @@ I am a ✨ **fullstack web developer** and 🎨 **UI/UX designer!** I design and
 <img src="#" alt="" height="160">
 
 ## [🏠 Visit My Homepage](https://jussinevavuori.com/)
-🎨
-At [jussinevavuori.com](https://jussinevavuori.com)
-- [🤝🏻  About Me](https://jussinevavuori.com/about)
-- [💼  Projects](https://jussinevavuori.com/projects)
-- [📖  Blog](https://jussinevavuori.com/blogs)
 
 [<img width="360" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
 
-<!--
-**Jussinevavuori/jussinevavuori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="#" alt="" height="160">
 
-Here are some ideas to get you started:
+## 💬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+I'm 22 years old.
+
+I go by many titles. Fullstack Web Developer, UI Designer, UX Designer. Depends on the project I'm working on.
+
+#### 🏠 Location
+
+I'm based in the Helsinki Region in Finland. In Espoo to be more specific. However, I spend a lot of my time in Vaasa, Finland.
+
+#### 📖 Studies
+
+I have a B.Sc. in Computer Science from Aalto University. I am also currently continuing my studies there, aiming for my masters.
+#### 🎶 Freetime
+
+My favorite thing to do in my free time is anything related to music. Playing, singing, composing, writing songs. You name it.
+
+In addition, I am a creative person and love the medium of code. I end up every now and then coming up with a new side project to work on, to test the latest technologies on and just to have fun with.
+
+#### 💼 Why I work
+
+I'm truly passionate about what I create. Because of this I strive to build only high-quality products, both in terms of code quality and user experience. This means a promise to create products that satisfy not only my clients and the end users but also me as a creator.
+
+Seeing a product become real and having poured so much of my talent and time into it never fails to bring me satisfaction.
+
+#### 🤩 What makes me happy?
+
+The one thing that never fails to make me happy is being around the people I love. Having a good cup of coffee, sitting somewhere comfortable with or without friends, and enjoying life.
+
+A good game of any fun sport, usually badminton or padel, a good run or just simply sitting at a piano, playing and singing for hours.
