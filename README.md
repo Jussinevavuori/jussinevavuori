@@ -4,7 +4,7 @@
 
 🎨 **UI / UX Designer**
 
-📬 **Send me a message**
+📬 [**Send me a message**](https://jussinevavuori.com/#contact)
 
 <img src="#" alt="" height="160">
 
