@@ -8,7 +8,7 @@
 🎨 UI / UX Designer
 </p>
 
-<a href="https://jussinevavuori.com/contact/">
+<a align="center" href="https://jussinevavuori.com/contact/">
 📬 Send me a message
 </center>
 
