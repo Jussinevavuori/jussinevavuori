@@ -24,4 +24,4 @@
 
 <img src="#" alt="" height="160">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori&theme=github_dark)
