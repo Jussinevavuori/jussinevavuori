@@ -1,4 +1,4 @@
-### 👋🏻 Hello, I'm Jussi Nevavuori.
+## 👋🏻 Hello, I'm Jussi Nevavuori.
 
 💬 I am a ✨ **fullstack web developer** and 🎨 **UI/UX designer!**
 
