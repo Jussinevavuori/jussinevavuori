@@ -10,9 +10,11 @@
 
 <a align="center" href="https://jussinevavuori.com/contact/">
 📬 Send me a message
-</center>
+</a>
 
+<p align="center">
 _Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible._
+</p>
 
 <img src="#" alt="" height="160">
 
