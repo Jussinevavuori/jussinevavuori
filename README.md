@@ -9,7 +9,7 @@
 </p>
 
 <a  href="https://jussinevavuori.com/contact/">
-	<p align="center" style="padding:0.5rem 1rem;background:#21c55d;">
+	<p align="center" style="padding:0.5rem 1rem;background-color:#21c55d;">
 		📬 Send me a message
 	</p>
 </a>
