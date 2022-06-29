@@ -2,10 +2,6 @@
 
 <img src="#" alt="" height="160">
 
-## 📱 Social
-
-<img src="#" alt="" height="160">
-
 <table>
 	<tr>
 		<th>
