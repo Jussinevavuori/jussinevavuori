@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1242098958928838658/1656496183/1500x500" alt="banner">
+<img src="/assets/banner.png" alt="banner">
 
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
