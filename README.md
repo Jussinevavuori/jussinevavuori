@@ -2,13 +2,13 @@
 
 <img src="#" alt="" height="160">
 
-<img src="#" alt="" height="160">
-
 <h2 align="center">
 	<a href="https://jussinevavuori.com">
 		🔥 Where to find me?
 	</a>
 </h2>
+
+<img src="#" alt="" height="160">
 
 <table>
 	<tr>
