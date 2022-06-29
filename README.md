@@ -1,5 +1,7 @@
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
+![](https://komarev.com/ghpvc/?username=jussinevavuori&color=brightgreen)
+
 ✨ **Fullstack Web Developer**
 
 🎨 **UI / UX Designer**
@@ -22,6 +24,4 @@
 
 <img src="#" alt="" height="160">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=jussinevavuori)
+[![Stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
