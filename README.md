@@ -56,22 +56,22 @@
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td align="center">
 			<a href="mailto:jussi@nevavuori.fi">
 				jussi@nevavuori.fi
 			</a>
 		</td>
-		<td>
+		<td align="center">
 			<a href="https://twitter.com/jussinevavuori">
 				@jussinevavuori
 			</a>
 		</td>
-		<td>
+		<td align="center">
 			<a href="https://dev.to/jussinevavuori">
 				Jussinevavuori
 			</a>
 		</td>
-		<td>
+		<td align="center">
 			<a href="https://www.linkedin.com/in/jussinevavuori/">
 				Jussi Nevavuori
 			</a>
@@ -81,7 +81,11 @@
 
 <img src="#" alt="" height="160">
 
-## [🏠 Jussinevavuori.com](https://jussinevavuori.com/)
+<h2 align="center">
+	<a href="https://jussinevavuori.com">
+		🏠 Jussinevavuori.com
+	</a>
+</h2>
 
 <img src="#" alt="" height="160">
 
