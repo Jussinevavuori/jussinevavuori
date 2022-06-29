@@ -16,4 +16,6 @@
 
 <img src="#" alt="" height="160">
 
-![](https://komarev.com/ghpvc/?username=jussinevavuori&color=brightgreen)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jussinevavuori&color=brightgreen" alt="Profile views">
+</p>
