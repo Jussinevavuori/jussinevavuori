@@ -12,7 +12,7 @@
 
 ## [🏠 Jussinevavuori.com](https://jussinevavuori.com/)
 
-[<img width="360" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
+[<img width="360" align="center" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
 
 <img src="#" alt="" height="160">
 
