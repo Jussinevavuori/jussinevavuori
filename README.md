@@ -9,14 +9,14 @@
 </p>
 
 <a  href="https://jussinevavuori.com/contact/">
-	<p align="center" style="padding:0.5rem 1rem;background-color:#21c55d;">
+	<p align="center">
 		📬 Send me a message
 	</p>
 </a>
 
-<p align="center">
-_Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible._
-</p>
+<i align="center">
+Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible.
+</i>
 
 <img src="#" alt="" height="160">
 
