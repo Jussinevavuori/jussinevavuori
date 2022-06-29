@@ -8,17 +8,34 @@
 
 <table>
 	<tr>
-		<td>
-			<table>
-				<tr>
-					<td style="border-width:0;">
-						<a href="mailto:jussi@nevavuori.fi">
-							<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
-						</a>
-					</td>
-				</tr>
-			</table>
-		</td>
+		<table>
+			<tr>
+					<a href="mailto:jussi@nevavuori.fi">
+						<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
+					</a>
+			</tr>
+		</table>
+		<table>
+			<tr>
+					<a href="mailto:jussi@nevavuori.fi">
+						<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
+					</a>
+			</tr>
+		</table>
+		<table>
+			<tr>
+					<a href="mailto:jussi@nevavuori.fi">
+						<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
+					</a>
+			</tr>
+		</table>
+		<table>
+			<tr>
+					<a href="mailto:jussi@nevavuori.fi">
+						<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
+					</a>
+			</tr>
+		</table>
 	</tr>
 </table>
 
