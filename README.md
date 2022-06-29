@@ -17,6 +17,9 @@ Twitter | Dev.To | LinkedIn
 ## [🏠 Visit My Homepage](https://jussinevavuori.com/)
 🎨
 At [jussinevavuori.com](https://jussinevavuori.com)
+- [🤝🏻  About Me](https://jussinevavuori.com/about)
+- [💼  Projects](https://jussinevavuori.com/projects)
+- [📖  Blog](https://jussinevavuori.com/blogs)
 
 [<img width="360" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
 
