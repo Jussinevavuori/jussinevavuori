@@ -1,5 +1,8 @@
-# [My Homepage](https://jussinevavuori.com/)
-![Homepage Landing Page](https://jussinevavuori.com/api/ogimage?path=/)
+# [🏠 Visit My Homepage](https://jussinevavuori.com/)
+
+At [jussinevavuori.com](https://jussinevavuori.com)
+
+[![Homepage Landing Page](https://jussinevavuori.com/api/ogimage?path=/)](https://jussinevavuori.com/)
 
 <!--
 **Jussinevavuori/jussinevavuori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
