@@ -59,6 +59,28 @@
 			<img width="441" height="1">
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="mailto:jussi@nevavuori.fi">
+				jussi@nevavuori.fi
+			</a>
+		</td>
+		<td>
+			<a href="https://twitter.com/jussinevavuori">
+				@jussinevavuori
+			</a>
+		</td>
+		<td>
+			<a href="https://dev.to/jussinevavuori">
+				Jussinevavuori
+			</a>
+		</td>
+		<td>
+			<a href="https://www.linkedin.com/in/jussinevavuori/">
+				Jussi Nevavuori
+			</a>
+		</td>
+	</tr>
 </table>
 
 <img src="#" alt="" height="160">
