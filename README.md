@@ -8,8 +8,8 @@
 🎨 UI / UX Designer
 </p>
 
-<center>
-📬 [Send me a message](https://jussinevavuori.com/contact/)! 
+<a href="https://jussinevavuori.com/contact/">
+📬 Send me a message
 </center>
 
 _Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible._
