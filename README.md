@@ -1,17 +1,17 @@
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
 <p align="center">
-✨ Fullstack Web Developer
+	✨ Fullstack Web Developer
 </p>
 
 <p align="center">
-🎨 UI / UX Designer
+	🎨 UI / UX Designer
 </p>
 
 <a  href="https://jussinevavuori.com/contact/">
-<p align="center" style="padding:0.5rem 1rem;">
-📬 Send me a message
-</p>
+	<p align="center" style="padding:0.5rem 1rem;">
+		📬 Send me a message
+	</p>
 </a>
 
 <p align="center">
