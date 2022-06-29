@@ -11,7 +11,7 @@
 		<td>
 			<table>
 				<tr>
-					<td border="none">
+					<td style="border-width:0;">
 						<a href="mailto:jussi@nevavuori.fi">
 							<img alt="Gmail logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" height="20" />
 						</a>
