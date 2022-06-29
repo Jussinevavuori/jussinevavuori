@@ -6,7 +6,7 @@
 
 📬 [Send me a message](https://jussinevavuori.com/contact/)! Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible.
 
-<div>
+<div stlye="display:flex;gap:4rem;">
 
 [<img alt="Twitter logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/200px-Twitter-logo.svg.png" height="20" />](https://twitter.com/jussinevavuori)
 
