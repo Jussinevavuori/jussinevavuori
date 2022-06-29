@@ -22,6 +22,4 @@
 
 <img src="#" alt="" height="160">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori&theme=github_dark)
-
 ![](https://komarev.com/ghpvc/?username=jussinevavuori&color=brightgreen)
