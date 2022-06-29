@@ -1,6 +1,10 @@
 # 👋🏻 Hello, I'm Jussi Nevavuori.
 
-I am a ✨ ** fullstack web developer ** ✨ and 🎨 ** UI/UX designer! ** 🎨
+💬 I am a ✨ **fullstack web developer** and 🎨 **UI/UX designer!**
+
+🔥 I design and create _functional and beautiful applications_ with passion and a focus on _user experience_ and _high quality_.
+
+
 
 ## [🏠 Visit My Homepage](https://jussinevavuori.com/)
 🎨
@@ -22,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
