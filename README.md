@@ -1,11 +1,5 @@
 <img src="/assets/banner1.png" alt="banner">
 
-## 👋🏻 Hello, I'm Jussi Nevavuori.
-
-✨ **Fullstack Web Developer**
-
-🎨 **UI / UX Designer**
-
 📬 [**Send me a message**](https://jussinevavuori.com/#contact)
 
 <img src="#" alt="" height="160">
