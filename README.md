@@ -1,4 +1,4 @@
-<img src="/assets/banner.png" alt="banner">
+<img src="/assets/banner2.png" alt="banner">
 
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
