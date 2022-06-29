@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/profile_banners/1242098958928838658/1656496183/1500x500" alt="banner">
+
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
 ✨ **Fullstack Web Developer**
