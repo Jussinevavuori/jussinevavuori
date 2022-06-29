@@ -14,9 +14,11 @@
 	</p>
 </a>
 
-<i align="center">
-Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible.
-</i>
+<p align="center">
+	<i>
+		Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible.
+	</i>
+</a>
 
 <img src="#" alt="" height="160">
 
