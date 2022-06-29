@@ -34,7 +34,9 @@
 		<td align="center">
 			<img width="441" height="1">
 			<a href="mailto:jussi@nevavuori.fi">
+				<h2>
 				🏠
+				</h2>
 			</a>
 			<img width="441" height="1">
 		</td>
