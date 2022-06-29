@@ -1,6 +1,4 @@
-### Hi there 👋'
-
-[My Homepage](https://jussinevavuori.com/)
+# [My Homepage](https://jussinevavuori.com/)
 ![Homepage Landing Page](https://jussinevavuori.com/api/ogimage?path=/)
 
 <!--
