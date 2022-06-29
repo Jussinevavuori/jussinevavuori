@@ -21,3 +21,7 @@
 [<img width="360" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
 
 <img src="#" alt="" height="160">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jussinevavuori)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=jussinevavuori)
