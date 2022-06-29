@@ -18,7 +18,7 @@ _Contact me about any work opportunities, projects, questions or feedback you ma
 
 <img src="#" alt="" height="160">
 
-## [🏠 Visit My Homepage](https://jussinevavuori.com/)
+## [🏠 Jussinevavuori.com](https://jussinevavuori.com/)
 
 [<img width="360" alt="Homepage Landing Page" src="https://jussinevavuori.com/api/ogimage?path=/">](https://jussinevavuori.com/)
 
