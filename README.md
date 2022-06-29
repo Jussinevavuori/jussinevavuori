@@ -34,9 +34,7 @@
 		<td align="center">
 			<img width="441" height="1">
 			<a href="mailto:jussi@nevavuori.fi">
-				<h4>
-				🏠
-				</h4>
+				<img alt="Gmail logo" src="/assets/favicon.png" height="20" />
 			</a>
 			<img width="441" height="1">
 		</td>
