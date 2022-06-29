@@ -83,7 +83,7 @@
 
 <h2 align="center">
 	<a href="https://jussinevavuori.com">
-		🏠 Jussinevavuori.com
+		🏠 Visit my homepage at jussinevavuori.com
 	</a>
 </h2>
 
