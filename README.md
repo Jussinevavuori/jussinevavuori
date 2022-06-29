@@ -1,6 +1,7 @@
 ## 👋🏻 Hello, I'm Jussi Nevavuori.
 
 ✨ Fullstack Web Developer
+
 🎨 UI / UX Designer
 
 📬 [Send me a message](https://jussinevavuori.com/contact/)! _Contact me about any work opportunities, projects, questions or feedback you may have. Even if you just want to say hi. I aim to reply as soon as possible._
