@@ -8,6 +8,28 @@
 
 <table>
 	<tr>
+		<th>
+			<a href="mailto:jussi@nevavuori.fi">
+				Email
+			</a>
+		</th>
+		<th>
+			<a href="https://twitter.com/jussinevavuori">
+				Twitter
+			</a>
+		</th>
+		<th>
+			<a href="https://dev.to/jussinevavuori">
+				Dev.to
+			</a>
+		</th>
+		<th>
+			<a href="https://www.linkedin.com/in/jussinevavuori/">
+				LinkedIn
+			</a>
+		</th>
+	</tr>
+	<tr>
 		<td align="center">
 			<img width="441" height="1">
 			<a href="mailto:jussi@nevavuori.fi">
