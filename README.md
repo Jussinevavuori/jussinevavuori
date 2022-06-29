@@ -1,5 +1,9 @@
-# [🏠 Visit My Homepage](https://jussinevavuori.com/)
+# 👋🏻 Hello, I'm Jussi Nevavuori.
 
+I am a ✨ ** fullstack web developer ** ✨ and 🎨 ** UI/UX designer! ** 🎨
+
+## [🏠 Visit My Homepage](https://jussinevavuori.com/)
+🎨
 At [jussinevavuori.com](https://jussinevavuori.com)
 
 [![Homepage Landing Page](https://jussinevavuori.com/api/ogimage?path=/)](https://jussinevavuori.com/)
@@ -10,7 +14,7 @@ At [jussinevavuori.com](https://jussinevavuori.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
