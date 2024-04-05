@@ -4,14 +4,6 @@
 
 <h2 align="center">
 	<a href="https://jussinevavuori.com">
-		🔥 Where to find me?
-	</a>
-</h2>
-
-<img src="#" alt="" height="160">
-
-<h2 align="center">
-	<a href="https://jussinevavuori.com">
 		🏠 Visit my homepage at jussinevavuori.com
 	</a>
 </h2>
