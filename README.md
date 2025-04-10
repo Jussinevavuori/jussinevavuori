@@ -2,15 +2,11 @@
 
 <img src="#" alt="" height="160">
 
-<h2 align="center">
-	<a href="https://jussinevavuori.com">
-		🏠 Visit my homepage at jussinevavuori.com
-	</a>
-</h2>
+## [🏠 Visit my homepage at jussinevavuori.com](https://jussinevavuori.com)
 
-<img src="#" alt="" height="160">
-
-[<p align="center"><img width="360" align="center" alt="Homepage Landing Page" src="https://jussinevavuori.com/ogimage.png"></p>](https://jussinevavuori.com/)
+- Author of [Kilpi](https://kilpi.vercel.app/)
+- CTO & Co-founder of [Inclusive Mobility)(https://www.inclusivemobility.im/)
+- CTO & Co-founder of [Laskento](https://www.laskento.fi/)
 
 <img src="#" alt="" height="160">
 
